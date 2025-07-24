@@ -185,12 +185,13 @@ Now, navigate to: [http://localhost:3000](http://localhost:3000)
    <img src=" ouputs/approving donor from admin.jpg" width="400"/>
 </p>
 
-### Administrative Dashboard
-  <img src="outputs/adminprofile.jpg" width="600"/>
-  <img src="outputs/medicinepanel.jpg" width="600"/>
 
 ### User Profile
   <img src="outputs/userprofile.jpg" width="600"/>
+  
+### Administrative Dashboar
+  <img src="outputs/adminprofile.jpg" width="600"/>
+
 
 
 ---
@@ -275,12 +276,3 @@ eHealth-Mern-/
 
 ---
 
----
-
----
-
-## Acknowledgments
-
-* Healthcare professionals who provided insights for feature development
-* Open source community for various libraries and tools
-* Beta testers who helped improve the user experience
