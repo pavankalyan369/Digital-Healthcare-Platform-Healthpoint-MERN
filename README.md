@@ -182,7 +182,6 @@ Now, navigate to: [http://localhost:3000](http://localhost:3000)
 <p align="center">
   <img src="outputs/blooddonors01.png" width="400"/>
   <img src="outputs/requestblood_form.jpg" width="400"/>
-  <img src="outputs/approving donor from admin.jpg" width="400"/>
 </p>
 
 
