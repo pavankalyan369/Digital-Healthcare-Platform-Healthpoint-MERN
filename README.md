@@ -58,7 +58,7 @@ git clone https://github.com/pavankalyan369/Digital-Healthcare-Platform-Healthpo
 ### 2. Install Backend Dependencies
 
 ```bash
-cd eHealth-Mern-
+cd Digital-Healthcare-Platform-Healthpoint-MERN
 npm install
 ```
 
