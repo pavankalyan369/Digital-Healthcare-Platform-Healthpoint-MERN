@@ -52,7 +52,7 @@ In the event of a pandemic, everyone must rely on digital healthcare solutions. 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/HridoyHazard/eHealth-Mern-.git
+git clone https://github.com/pavankalyan369/Digital-Healthcare-Platform-Healthpoint-MERN.git
 ```
 
 ### 2. Install Backend Dependencies
@@ -156,10 +156,8 @@ Now, navigate to: [http://localhost:3000](http://localhost:3000)
 
   
 ### User Authentication
-<p align="center">
-  <img src="outputs/signup.png" width="300"/>
-  <img src="outputs/signin.png" width="300"/>
-</p>
+  <img src="outputs/signup.png" width="600"/>
+  <img src="outputs/signin.png" width="600"/>
 
 ### Medicine Services
 <p align="center">
@@ -173,6 +171,7 @@ Now, navigate to: [http://localhost:3000](http://localhost:3000)
   <img src="ouputs/doctorsinfo01.png" width="400"/>
   <img src="ouputs/doctordetails2.jpg" width="400"/>
 </p>
+
 ### Appointment Services
 <p align="center">
   <img src="ouputs/appointment (1).jpg" width="400"/>
@@ -187,13 +186,11 @@ Now, navigate to: [http://localhost:3000](http://localhost:3000)
 </p>
 
 ### Administrative Dashboard
-<p align="center">
-  <img src="outputs/adminprofile.jpg" width="400"/>
-  <img src="outputs/medicinepanel.jpg" width="400"/>
-</p>
+  <img src="outputs/adminprofile.jpg" width="600"/>
+  <img src="outputs/medicinepanel.jpg" width="600"/>
 
 ### User Profile
-  <img src="outputs/userprofile.jpg" width="400"/>
+  <img src="outputs/userprofile.jpg" width="600"/>
 
 
 ---
