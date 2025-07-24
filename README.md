@@ -161,28 +161,28 @@ Now, navigate to: [http://localhost:3000](http://localhost:3000)
 
 ### Medicine Services
 <p align="center">
-  <img src="ouputs/latestmedicine01.png" width="400"/>
-  <img src="ouputs/medicine_details.jpg" width="400"/>
+  <img src="outputs/latestmedicine01.png" width="400"/>
+  <img src="outputs/medicine_details.jpg" width="400"/>
 </p>
 
 
 ### Doctor Services
 <p align="center">
-  <img src="ouputs/doctorsinfo01.png" width="400"/>
-  <img src="ouputs/doctordetails2.jpg" width="400"/>
+  <img src="outputs/doctorsinfo01.png" width="400"/>
+  <img src="outputs/doctordetails2.jpg" width="400"/>
 </p>
 
 ### Appointment Services
 <p align="center">
-  <img src="ouputs/appointment (1).jpg" width="400"/>
-  <img src="ouputs/appointment.jpg" width="400"/>
+  <img src="outputs/appointment (1).jpg" width="400"/>
+  <img src="outputs/appointment.jpg" width="400"/>
 </p>
 
 ### Blood Donation Platform
 <p align="center">
-  <img src="ouputs/blooddonors01.png" width="400"/>
-  <img src="ouputs/requestblood_form.jpg" width="400"/>
-   <img src=" ouputs/approving donor from admin.jpg" width="400"/>
+  <img src="outputs/blooddonors01.png" width="400"/>
+  <img src="outputs/requestblood_form.jpg" width="400"/>
+  <img src="outputs/approving donor from admin.jpg" width="400"/>
 </p>
 
 
